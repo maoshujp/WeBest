@@ -1,7 +1,7 @@
 //
 //  FirstViewController.swift
 //  WeBest
-//
+//  これはGitHubテストです。
 //  Created by lion on 2020/05/14.
 //  Copyright © 2020 lion. All rights reserved.
 //
